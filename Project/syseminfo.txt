@@ -1,0 +1,10 @@
+Public IP Address: 118.185.21.138Processor: AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Beast
+Private IP Address: 10.9.28.63
+Public IP Address: 118.185.21.138Processor: AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: Beast
+Private IP Address: 10.9.28.63
